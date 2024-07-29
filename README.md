@@ -41,7 +41,4 @@ This project involves analyzing a dataset from ABC Company to gain insights abou
 
 - `project.ipynb`: Jupyter Notebook with the code for the project.
 - `dataset_abc.csv`: (from shared google drive) The dataset used for analysis.
-
-## Submission
-
-Ensure timely submission of your project to earn additional marks. Follow the instructions provided in the project guidelines.
+- `https://docs.google.com/spreadsheets/d/1VP9BE_eI2yl6uUHSm4mGiiwjRdoqCqnkcIjsv5Q2ex4/edit?usp=share_link`:(link used to analyse the data)
